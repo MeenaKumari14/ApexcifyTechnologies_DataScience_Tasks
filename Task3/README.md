@@ -1,4 +1,4 @@
-#  Task 4: Exploratory Data Analysis & Descriptive Statistics
+#  Task 3: Exploratory Data Analysis & Descriptive Statistics
 
 ##  Project Overview
 This task focused on Exploratory Data Analysis (EDA). I applied advanced statistical techniques and visualizations using Python, Pandas, and Seaborn to uncover underlying patterns, detect anomalies, and summarize the main characteristics of a complex dataset. The goal was to ensure data quality and build a robust foundation for subsequent modeling. Exploratory Data Analysis (EDA) is the backbone of any Data Science project. In this task, I performed a rigorous statistical examination of a dataset (such as Iris or Titanic) to understand its underlying structure.
