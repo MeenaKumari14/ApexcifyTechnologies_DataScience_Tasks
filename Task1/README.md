@@ -23,6 +23,6 @@ This analysis helps educators identify students who may need extra support and r
 
 ## Contact & Connect
 - **LinkedIn:** https://www.linkedin.com/in/kumarimeena
-- **Internship Provider:** [Apexcify Technologys](https://www.linkedin.com/company/apexcifytechnologys/
+- **Internship Provider:** https://www.linkedin.com/company/apexcifytechnologys
 - *Thank you for visiting my repository! Feel free to explore the folders for detailed code.*
 
