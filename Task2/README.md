@@ -2,7 +2,9 @@
 #  Task 2: Business Sales Trend Visualization
 
 ## Project Overview
-This project focuses on time-series data visualization for a business environment. [cite_start]The goal was to interpret 12 months of sales data to understand seasonal patterns and financial growth.
+This project focuses on time-series data visualization for a business environment, sales and business Data Analysis. I performed a deep dive into monthly data using Python, Pandas, Matplotlib, and Seaborn to track key performance indicator like sales trends, profit margins, and Marketing ROI. The goal was to extract actionable business intelligence.
+
+The goal was to interpret 12 months of sales data to understand seasonal patterns and financial growth.
 
 ##  Business Insights & Analysis
 - **Trend Detection**: Developed a line chart to visualize the sales trajectory over a one-year period.
