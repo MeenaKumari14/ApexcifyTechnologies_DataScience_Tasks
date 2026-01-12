@@ -108,7 +108,7 @@ ApexcifyTechnologies_DataScience_Tasks/
 
 ## Author
 **Meena Kumari**  
-Data Science Intern  
+Data Science & AI Intern  
 
 
 
